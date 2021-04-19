@@ -1,0 +1,160 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Suite1",
+    "children" : [ {
+      "name" : "Regression1",
+      "children" : [ {
+        "name" : "api.tests.PromotionsTests",
+        "children" : [ {
+          "name" : "testCodeForInvalidKey",
+          "uid" : "4509e0e70b0942b8",
+          "parentUid" : "936fa8e29aff01611f76ec5214b8c973",
+          "status" : "passed",
+          "time" : {
+            "start" : 1618828989845,
+            "stop" : 1618828989901,
+            "duration" : 56
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "testJSONBooleanValues",
+          "uid" : "6b3aed4081cdcaee",
+          "parentUid" : "936fa8e29aff01611f76ec5214b8c973",
+          "status" : "passed",
+          "time" : {
+            "start" : 1618828990111,
+            "stop" : 1618828990115,
+            "duration" : 4
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "testJSONKeyPromotions",
+          "uid" : "703f9be8e8cb1739",
+          "parentUid" : "936fa8e29aff01611f76ec5214b8c973",
+          "status" : "passed",
+          "time" : {
+            "start" : 1618828990121,
+            "stop" : 1618828990374,
+            "duration" : 253
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "testJSONKeys",
+          "uid" : "d7b453c1b34ce2a8",
+          "parentUid" : "936fa8e29aff01611f76ec5214b8c973",
+          "status" : "passed",
+          "time" : {
+            "start" : 1618828990378,
+            "stop" : 1618828990379,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "testLocalizedTextsKey",
+          "uid" : "34a116f5efa981f3",
+          "parentUid" : "936fa8e29aff01611f76ec5214b8c973",
+          "status" : "passed",
+          "time" : {
+            "start" : 1618828990382,
+            "stop" : 1618828990391,
+            "duration" : 9
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "testMessageForInvalidKey",
+          "uid" : "7d9890d762297a66",
+          "parentUid" : "936fa8e29aff01611f76ec5214b8c973",
+          "status" : "passed",
+          "time" : {
+            "start" : 1618828990396,
+            "stop" : 1618828990421,
+            "duration" : 25
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "testProgramTypeValue",
+          "uid" : "8c12299118cdabd4",
+          "parentUid" : "936fa8e29aff01611f76ec5214b8c973",
+          "status" : "passed",
+          "time" : {
+            "start" : 1618828990427,
+            "stop" : 1618828990432,
+            "duration" : 5
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "testPromotionIdValueInstance",
+          "uid" : "4c5b2f03adceb358",
+          "parentUid" : "936fa8e29aff01611f76ec5214b8c973",
+          "status" : "passed",
+          "time" : {
+            "start" : 1618828990437,
+            "stop" : 1618828990438,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "testRequestIDNotNull",
+          "uid" : "a53b8a791bd23d23",
+          "parentUid" : "936fa8e29aff01611f76ec5214b8c973",
+          "status" : "passed",
+          "time" : {
+            "start" : 1618828990442,
+            "stop" : 1618828990468,
+            "duration" : 26
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "testResponseStatusCodeWithInvalidKey",
+          "uid" : "bd567b2f6c68c23e",
+          "parentUid" : "936fa8e29aff01611f76ec5214b8c973",
+          "status" : "passed",
+          "time" : {
+            "start" : 1618828990473,
+            "stop" : 1618828990474,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "testValidResponseStatusCode",
+          "uid" : "14d2e6d2f0941638",
+          "parentUid" : "936fa8e29aff01611f76ec5214b8c973",
+          "status" : "passed",
+          "time" : {
+            "start" : 1618828990478,
+            "stop" : 1618828990479,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "936fa8e29aff01611f76ec5214b8c973"
+      } ],
+      "uid" : "9cafb56c228ad58fcad13f0f9a7de8cc"
+    } ],
+    "uid" : "1b55da8b4eccbbb6df84e16f476662eb"
+  } ]
+}

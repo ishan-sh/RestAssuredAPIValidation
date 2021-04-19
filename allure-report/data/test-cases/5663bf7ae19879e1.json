@@ -1,0 +1,78 @@
+{
+  "uid" : "5663bf7ae19879e1",
+  "name" : "testRequestIDNotNull",
+  "fullName" : "api.tests.PromotionsTests.testRequestIDNotNull",
+  "historyId" : "91d8d5ee4f323511e2b2f161a9f9824e",
+  "time" : {
+    "start" : 1618817062157,
+    "stop" : 1618817062188,
+    "duration" : 31
+  },
+  "description" : "Verifying request id is not null",
+  "descriptionHtml" : "<p>Verifying request id is not null</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setup",
+    "time" : {
+      "start" : 1618817050951,
+      "stop" : 1618817061422,
+      "duration" : 10471
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "api.tests.PromotionsTests"
+  }, {
+    "name" : "testClass",
+    "value" : "api.tests.PromotionsTests"
+  }, {
+    "name" : "testMethod",
+    "value" : "testRequestIDNotNull"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite1"
+  }, {
+    "name" : "suite",
+    "value" : "Regression1"
+  }, {
+    "name" : "subSuite",
+    "value" : "api.tests.PromotionsTests"
+  }, {
+    "name" : "host",
+    "value" : "i-system-2.local"
+  }, {
+    "name" : "thread",
+    "value" : "16705@i-system-2.local.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5663bf7ae19879e1.json",
+  "parameterValues" : [ ]
+}

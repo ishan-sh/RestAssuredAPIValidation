@@ -1,0 +1,78 @@
+{
+  "uid" : "ec92e2b711055aca",
+  "name" : "testJSONBooleanValues",
+  "fullName" : "api.tests.PromotionsTests.testJSONBooleanValues",
+  "historyId" : "2e5d9ec3e8ac93da6db121d24691625f",
+  "time" : {
+    "start" : 1618817061819,
+    "stop" : 1618817061825,
+    "duration" : 6
+  },
+  "description" : "Verifying showPrice / showText values",
+  "descriptionHtml" : "<p>Verifying showPrice / showText values</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setup",
+    "time" : {
+      "start" : 1618817050951,
+      "stop" : 1618817061422,
+      "duration" : 10471
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "api.tests.PromotionsTests"
+  }, {
+    "name" : "testClass",
+    "value" : "api.tests.PromotionsTests"
+  }, {
+    "name" : "testMethod",
+    "value" : "testJSONBooleanValues"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite1"
+  }, {
+    "name" : "suite",
+    "value" : "Regression1"
+  }, {
+    "name" : "subSuite",
+    "value" : "api.tests.PromotionsTests"
+  }, {
+    "name" : "host",
+    "value" : "i-system-2.local"
+  }, {
+    "name" : "thread",
+    "value" : "16705@i-system-2.local.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ec92e2b711055aca.json",
+  "parameterValues" : [ ]
+}

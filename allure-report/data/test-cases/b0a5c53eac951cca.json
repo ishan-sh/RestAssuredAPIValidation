@@ -1,0 +1,78 @@
+{
+  "uid" : "b0a5c53eac951cca",
+  "name" : "testValidResponseStatusCode",
+  "fullName" : "api.tests.PromotionsTests.testValidResponseStatusCode",
+  "historyId" : "ce589931d82a58765b20dc43be5a66c",
+  "time" : {
+    "start" : 1618817062203,
+    "stop" : 1618817062204,
+    "duration" : 1
+  },
+  "description" : "Verifying status code of API response with Valid Key",
+  "descriptionHtml" : "<p>Verifying status code of API response with Valid Key</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setup",
+    "time" : {
+      "start" : 1618817050951,
+      "stop" : 1618817061422,
+      "duration" : 10471
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "api.tests.PromotionsTests"
+  }, {
+    "name" : "testClass",
+    "value" : "api.tests.PromotionsTests"
+  }, {
+    "name" : "testMethod",
+    "value" : "testValidResponseStatusCode"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite1"
+  }, {
+    "name" : "suite",
+    "value" : "Regression1"
+  }, {
+    "name" : "subSuite",
+    "value" : "api.tests.PromotionsTests"
+  }, {
+    "name" : "host",
+    "value" : "i-system-2.local"
+  }, {
+    "name" : "thread",
+    "value" : "16705@i-system-2.local.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b0a5c53eac951cca.json",
+  "parameterValues" : [ ]
+}

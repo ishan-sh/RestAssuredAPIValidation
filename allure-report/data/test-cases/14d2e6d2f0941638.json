@@ -1,0 +1,104 @@
+{
+  "uid" : "14d2e6d2f0941638",
+  "name" : "testValidResponseStatusCode",
+  "fullName" : "api.tests.PromotionsTests.testValidResponseStatusCode",
+  "historyId" : "ce589931d82a58765b20dc43be5a66c",
+  "time" : {
+    "start" : 1618828990478,
+    "stop" : 1618828990479,
+    "duration" : 1
+  },
+  "description" : "Verifying status code of API response with Valid Key",
+  "descriptionHtml" : "<p>Verifying status code of API response with Valid Key</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setup",
+    "time" : {
+      "start" : 1618828978912,
+      "stop" : 1618828989723,
+      "duration" : 10811
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "api.tests.PromotionsTests"
+  }, {
+    "name" : "testClass",
+    "value" : "api.tests.PromotionsTests"
+  }, {
+    "name" : "testMethod",
+    "value" : "testValidResponseStatusCode"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite1"
+  }, {
+    "name" : "suite",
+    "value" : "Regression1"
+  }, {
+    "name" : "subSuite",
+    "value" : "api.tests.PromotionsTests"
+  }, {
+    "name" : "host",
+    "value" : "i-system-2.local"
+  }, {
+    "name" : "thread",
+    "value" : "17081@i-system-2.local.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "b0a5c53eac951cca",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618817062203,
+        "stop" : 1618817062204,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "6ed9e565cbd858ed",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618816208595,
+        "stop" : 1618816208596,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "d261cdbef729710",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618788228515,
+        "stop" : 1618788228516,
+        "duration" : 1
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "14d2e6d2f0941638.json",
+  "parameterValues" : [ ]
+}

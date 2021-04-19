@@ -1,0 +1,111 @@
+[ {
+  "uid" : "4c5b2f03adceb358",
+  "name" : "testPromotionIdValueInstance",
+  "time" : {
+    "start" : 1618828990437,
+    "stop" : 1618828990438,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6b3aed4081cdcaee",
+  "name" : "testJSONBooleanValues",
+  "time" : {
+    "start" : 1618828990111,
+    "stop" : 1618828990115,
+    "duration" : 4
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8c12299118cdabd4",
+  "name" : "testProgramTypeValue",
+  "time" : {
+    "start" : 1618828990427,
+    "stop" : 1618828990432,
+    "duration" : 5
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bd567b2f6c68c23e",
+  "name" : "testResponseStatusCodeWithInvalidKey",
+  "time" : {
+    "start" : 1618828990473,
+    "stop" : 1618828990474,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d7b453c1b34ce2a8",
+  "name" : "testJSONKeys",
+  "time" : {
+    "start" : 1618828990378,
+    "stop" : 1618828990379,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "703f9be8e8cb1739",
+  "name" : "testJSONKeyPromotions",
+  "time" : {
+    "start" : 1618828990121,
+    "stop" : 1618828990374,
+    "duration" : 253
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4509e0e70b0942b8",
+  "name" : "testCodeForInvalidKey",
+  "time" : {
+    "start" : 1618828989845,
+    "stop" : 1618828989901,
+    "duration" : 56
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "14d2e6d2f0941638",
+  "name" : "testValidResponseStatusCode",
+  "time" : {
+    "start" : 1618828990478,
+    "stop" : 1618828990479,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7d9890d762297a66",
+  "name" : "testMessageForInvalidKey",
+  "time" : {
+    "start" : 1618828990396,
+    "stop" : 1618828990421,
+    "duration" : 25
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a53b8a791bd23d23",
+  "name" : "testRequestIDNotNull",
+  "time" : {
+    "start" : 1618828990442,
+    "stop" : 1618828990468,
+    "duration" : 26
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "34a116f5efa981f3",
+  "name" : "testLocalizedTextsKey",
+  "time" : {
+    "start" : 1618828990382,
+    "stop" : 1618828990391,
+    "duration" : 9
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

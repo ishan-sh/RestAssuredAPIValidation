@@ -1,0 +1,104 @@
+{
+  "uid" : "34a116f5efa981f3",
+  "name" : "testLocalizedTextsKey",
+  "fullName" : "api.tests.PromotionsTests.testLocalizedTextsKey",
+  "historyId" : "9253e716cb2b0a5e47524d5cf2f9708b",
+  "time" : {
+    "start" : 1618828990382,
+    "stop" : 1618828990391,
+    "duration" : 9
+  },
+  "description" : "Verifying localizedTexts has both en / ar keys",
+  "descriptionHtml" : "<p>Verifying localizedTexts has both en / ar keys</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setup",
+    "time" : {
+      "start" : 1618828978912,
+      "stop" : 1618828989723,
+      "duration" : 10811
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "api.tests.PromotionsTests"
+  }, {
+    "name" : "testClass",
+    "value" : "api.tests.PromotionsTests"
+  }, {
+    "name" : "testMethod",
+    "value" : "testLocalizedTextsKey"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite1"
+  }, {
+    "name" : "suite",
+    "value" : "Regression1"
+  }, {
+    "name" : "subSuite",
+    "value" : "api.tests.PromotionsTests"
+  }, {
+    "name" : "host",
+    "value" : "i-system-2.local"
+  }, {
+    "name" : "thread",
+    "value" : "17081@i-system-2.local.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "2a9f054898e55f41",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618817062091,
+        "stop" : 1618817062098,
+        "duration" : 7
+      }
+    }, {
+      "uid" : "17b26dbed1fc5d49",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618816208498,
+        "stop" : 1618816208505,
+        "duration" : 7
+      }
+    }, {
+      "uid" : "d664879a6c2e8227",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618788228427,
+        "stop" : 1618788228432,
+        "duration" : 5
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "34a116f5efa981f3.json",
+  "parameterValues" : [ ]
+}

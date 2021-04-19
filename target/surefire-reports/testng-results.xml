@@ -2,69 +2,69 @@
 <testng-results skipped="0" failed="0" ignored="0" total="11" passed="11">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite1" duration-ms="9317" started-at="2021-04-19T04:53:39 IST" finished-at="2021-04-19T04:53:48 IST">
+  <suite name="Suite1" duration-ms="11713" started-at="2021-04-19T16:12:58 IST" finished-at="2021-04-19T16:13:10 IST">
     <groups>
       <group name="promotions_tests">
-        <method signature="PromotionsTests.testCodeForInvalidKey()[pri:9, instance:api.tests.PromotionsTests@192f2f27]" name="testCodeForInvalidKey" class="api.tests.PromotionsTests"/>
-        <method signature="PromotionsTests.testJSONBooleanValues()[pri:4, instance:api.tests.PromotionsTests@192f2f27]" name="testJSONBooleanValues" class="api.tests.PromotionsTests"/>
-        <method signature="PromotionsTests.testJSONKeyPromotions()[pri:2, instance:api.tests.PromotionsTests@192f2f27]" name="testJSONKeyPromotions" class="api.tests.PromotionsTests"/>
-        <method signature="PromotionsTests.testJSONKeys()[pri:3, instance:api.tests.PromotionsTests@192f2f27]" name="testJSONKeys" class="api.tests.PromotionsTests"/>
-        <method signature="PromotionsTests.testLocalizedTextsKey()[pri:5, instance:api.tests.PromotionsTests@192f2f27]" name="testLocalizedTextsKey" class="api.tests.PromotionsTests"/>
-        <method signature="PromotionsTests.testMessageForInvalidKey()[pri:10, instance:api.tests.PromotionsTests@192f2f27]" name="testMessageForInvalidKey" class="api.tests.PromotionsTests"/>
-        <method signature="PromotionsTests.testProgramTypeValue()[pri:7, instance:api.tests.PromotionsTests@192f2f27]" name="testProgramTypeValue" class="api.tests.PromotionsTests"/>
-        <method signature="PromotionsTests.testPromotionIdValueInstance()[pri:6, instance:api.tests.PromotionsTests@192f2f27]" name="testPromotionIdValueInstance" class="api.tests.PromotionsTests"/>
-        <method signature="PromotionsTests.testRequestIDNotNull()[pri:11, instance:api.tests.PromotionsTests@192f2f27]" name="testRequestIDNotNull" class="api.tests.PromotionsTests"/>
-        <method signature="PromotionsTests.testResponseStatusCodeWithInvalidKey()[pri:8, instance:api.tests.PromotionsTests@192f2f27]" name="testResponseStatusCodeWithInvalidKey" class="api.tests.PromotionsTests"/>
-        <method signature="PromotionsTests.testValidResponseStatusCode()[pri:1, instance:api.tests.PromotionsTests@192f2f27]" name="testValidResponseStatusCode" class="api.tests.PromotionsTests"/>
+        <method signature="PromotionsTests.testCodeForInvalidKey()[pri:9, instance:api.tests.PromotionsTests@319dead1]" name="testCodeForInvalidKey" class="api.tests.PromotionsTests"/>
+        <method signature="PromotionsTests.testJSONBooleanValues()[pri:4, instance:api.tests.PromotionsTests@319dead1]" name="testJSONBooleanValues" class="api.tests.PromotionsTests"/>
+        <method signature="PromotionsTests.testJSONKeyPromotions()[pri:2, instance:api.tests.PromotionsTests@319dead1]" name="testJSONKeyPromotions" class="api.tests.PromotionsTests"/>
+        <method signature="PromotionsTests.testJSONKeys()[pri:3, instance:api.tests.PromotionsTests@319dead1]" name="testJSONKeys" class="api.tests.PromotionsTests"/>
+        <method signature="PromotionsTests.testLocalizedTextsKey()[pri:5, instance:api.tests.PromotionsTests@319dead1]" name="testLocalizedTextsKey" class="api.tests.PromotionsTests"/>
+        <method signature="PromotionsTests.testMessageForInvalidKey()[pri:10, instance:api.tests.PromotionsTests@319dead1]" name="testMessageForInvalidKey" class="api.tests.PromotionsTests"/>
+        <method signature="PromotionsTests.testProgramTypeValue()[pri:7, instance:api.tests.PromotionsTests@319dead1]" name="testProgramTypeValue" class="api.tests.PromotionsTests"/>
+        <method signature="PromotionsTests.testPromotionIdValueInstance()[pri:6, instance:api.tests.PromotionsTests@319dead1]" name="testPromotionIdValueInstance" class="api.tests.PromotionsTests"/>
+        <method signature="PromotionsTests.testRequestIDNotNull()[pri:11, instance:api.tests.PromotionsTests@319dead1]" name="testRequestIDNotNull" class="api.tests.PromotionsTests"/>
+        <method signature="PromotionsTests.testResponseStatusCodeWithInvalidKey()[pri:8, instance:api.tests.PromotionsTests@319dead1]" name="testResponseStatusCodeWithInvalidKey" class="api.tests.PromotionsTests"/>
+        <method signature="PromotionsTests.testValidResponseStatusCode()[pri:1, instance:api.tests.PromotionsTests@319dead1]" name="testValidResponseStatusCode" class="api.tests.PromotionsTests"/>
       </group> <!-- promotions_tests -->
     </groups>
-    <test name="Regression1" duration-ms="9317" started-at="2021-04-19T04:53:39 IST" finished-at="2021-04-19T04:53:48 IST">
+    <test name="Regression1" duration-ms="11713" started-at="2021-04-19T16:12:58 IST" finished-at="2021-04-19T16:13:10 IST">
       <class name="api.tests.PromotionsTests">
-        <test-method status="PASS" signature="setup()[pri:0, instance:api.tests.PromotionsTests@192f2f27]" name="setup" is-config="true" duration-ms="8532" started-at="2021-04-19T04:53:39 IST" finished-at="2021-04-19T04:53:47 IST">
+        <test-method status="PASS" signature="setup()[pri:0, instance:api.tests.PromotionsTests@319dead1]" name="setup" is-config="true" duration-ms="10867" started-at="2021-04-19T16:12:58 IST" finished-at="2021-04-19T16:13:09 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="testCodeForInvalidKey()[pri:9, instance:api.tests.PromotionsTests@192f2f27]" name="testCodeForInvalidKey" duration-ms="152" started-at="2021-04-19T04:53:47 IST" finished-at="2021-04-19T04:53:47 IST">
+        <test-method status="PASS" signature="testCodeForInvalidKey()[pri:9, instance:api.tests.PromotionsTests@319dead1]" name="testCodeForInvalidKey" duration-ms="138" started-at="2021-04-19T16:13:09 IST" finished-at="2021-04-19T16:13:09 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testCodeForInvalidKey -->
-        <test-method status="PASS" signature="testJSONBooleanValues()[pri:4, instance:api.tests.PromotionsTests@192f2f27]" name="testJSONBooleanValues" duration-ms="8" started-at="2021-04-19T04:53:48 IST" finished-at="2021-04-19T04:53:48 IST">
+        <test-method status="PASS" signature="testJSONBooleanValues()[pri:4, instance:api.tests.PromotionsTests@319dead1]" name="testJSONBooleanValues" duration-ms="6" started-at="2021-04-19T16:13:10 IST" finished-at="2021-04-19T16:13:10 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testJSONBooleanValues -->
-        <test-method status="PASS" signature="testJSONKeyPromotions()[pri:2, instance:api.tests.PromotionsTests@192f2f27]" name="testJSONKeyPromotions" duration-ms="220" started-at="2021-04-19T04:53:48 IST" finished-at="2021-04-19T04:53:48 IST">
+        <test-method status="PASS" signature="testJSONKeyPromotions()[pri:2, instance:api.tests.PromotionsTests@319dead1]" name="testJSONKeyPromotions" duration-ms="255" started-at="2021-04-19T16:13:10 IST" finished-at="2021-04-19T16:13:10 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testJSONKeyPromotions -->
-        <test-method status="PASS" signature="testJSONKeys()[pri:3, instance:api.tests.PromotionsTests@192f2f27]" name="testJSONKeys" duration-ms="3" started-at="2021-04-19T04:53:48 IST" finished-at="2021-04-19T04:53:48 IST">
+        <test-method status="PASS" signature="testJSONKeys()[pri:3, instance:api.tests.PromotionsTests@319dead1]" name="testJSONKeys" duration-ms="3" started-at="2021-04-19T16:13:10 IST" finished-at="2021-04-19T16:13:10 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testJSONKeys -->
-        <test-method status="PASS" signature="testLocalizedTextsKey()[pri:5, instance:api.tests.PromotionsTests@192f2f27]" name="testLocalizedTextsKey" duration-ms="7" started-at="2021-04-19T04:53:48 IST" finished-at="2021-04-19T04:53:48 IST">
+        <test-method status="PASS" signature="testLocalizedTextsKey()[pri:5, instance:api.tests.PromotionsTests@319dead1]" name="testLocalizedTextsKey" duration-ms="10" started-at="2021-04-19T16:13:10 IST" finished-at="2021-04-19T16:13:10 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testLocalizedTextsKey -->
-        <test-method status="PASS" signature="testMessageForInvalidKey()[pri:10, instance:api.tests.PromotionsTests@192f2f27]" name="testMessageForInvalidKey" duration-ms="29" started-at="2021-04-19T04:53:48 IST" finished-at="2021-04-19T04:53:48 IST">
+        <test-method status="PASS" signature="testMessageForInvalidKey()[pri:10, instance:api.tests.PromotionsTests@319dead1]" name="testMessageForInvalidKey" duration-ms="28" started-at="2021-04-19T16:13:10 IST" finished-at="2021-04-19T16:13:10 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testMessageForInvalidKey -->
-        <test-method status="PASS" signature="testProgramTypeValue()[pri:7, instance:api.tests.PromotionsTests@192f2f27]" name="testProgramTypeValue" duration-ms="4" started-at="2021-04-19T04:53:48 IST" finished-at="2021-04-19T04:53:48 IST">
+        <test-method status="PASS" signature="testProgramTypeValue()[pri:7, instance:api.tests.PromotionsTests@319dead1]" name="testProgramTypeValue" duration-ms="8" started-at="2021-04-19T16:13:10 IST" finished-at="2021-04-19T16:13:10 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testProgramTypeValue -->
-        <test-method status="PASS" signature="testPromotionIdValueInstance()[pri:6, instance:api.tests.PromotionsTests@192f2f27]" name="testPromotionIdValueInstance" duration-ms="4" started-at="2021-04-19T04:53:48 IST" finished-at="2021-04-19T04:53:48 IST">
+        <test-method status="PASS" signature="testPromotionIdValueInstance()[pri:6, instance:api.tests.PromotionsTests@319dead1]" name="testPromotionIdValueInstance" duration-ms="5" started-at="2021-04-19T16:13:10 IST" finished-at="2021-04-19T16:13:10 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testPromotionIdValueInstance -->
-        <test-method status="PASS" signature="testRequestIDNotNull()[pri:11, instance:api.tests.PromotionsTests@192f2f27]" name="testRequestIDNotNull" duration-ms="28" started-at="2021-04-19T04:53:48 IST" finished-at="2021-04-19T04:53:48 IST">
+        <test-method status="PASS" signature="testRequestIDNotNull()[pri:11, instance:api.tests.PromotionsTests@319dead1]" name="testRequestIDNotNull" duration-ms="28" started-at="2021-04-19T16:13:10 IST" finished-at="2021-04-19T16:13:10 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testRequestIDNotNull -->
-        <test-method status="PASS" signature="testResponseStatusCodeWithInvalidKey()[pri:8, instance:api.tests.PromotionsTests@192f2f27]" name="testResponseStatusCodeWithInvalidKey" duration-ms="3" started-at="2021-04-19T04:53:48 IST" finished-at="2021-04-19T04:53:48 IST">
+        <test-method status="PASS" signature="testResponseStatusCodeWithInvalidKey()[pri:8, instance:api.tests.PromotionsTests@319dead1]" name="testResponseStatusCodeWithInvalidKey" duration-ms="4" started-at="2021-04-19T16:13:10 IST" finished-at="2021-04-19T16:13:10 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testResponseStatusCodeWithInvalidKey -->
-        <test-method status="PASS" signature="testValidResponseStatusCode()[pri:1, instance:api.tests.PromotionsTests@192f2f27]" name="testValidResponseStatusCode" duration-ms="2" started-at="2021-04-19T04:53:48 IST" finished-at="2021-04-19T04:53:48 IST">
+        <test-method status="PASS" signature="testValidResponseStatusCode()[pri:1, instance:api.tests.PromotionsTests@319dead1]" name="testValidResponseStatusCode" duration-ms="2" started-at="2021-04-19T16:13:10 IST" finished-at="2021-04-19T16:13:10 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testValidResponseStatusCode -->

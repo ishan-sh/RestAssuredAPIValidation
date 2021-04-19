@@ -1,0 +1,78 @@
+{
+  "uid" : "d664879a6c2e8227",
+  "name" : "testLocalizedTextsKey",
+  "fullName" : "api.tests.PromotionsTests.testLocalizedTextsKey",
+  "historyId" : "9253e716cb2b0a5e47524d5cf2f9708b",
+  "time" : {
+    "start" : 1618788228427,
+    "stop" : 1618788228432,
+    "duration" : 5
+  },
+  "description" : "Verifying localizedTexts has both en / ar keys",
+  "descriptionHtml" : "<p>Verifying localizedTexts has both en / ar keys</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setup",
+    "time" : {
+      "start" : 1618788219296,
+      "stop" : 1618788227804,
+      "duration" : 8508
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "api.tests.PromotionsTests"
+  }, {
+    "name" : "testClass",
+    "value" : "api.tests.PromotionsTests"
+  }, {
+    "name" : "testMethod",
+    "value" : "testLocalizedTextsKey"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite1"
+  }, {
+    "name" : "suite",
+    "value" : "Regression1"
+  }, {
+    "name" : "subSuite",
+    "value" : "api.tests.PromotionsTests"
+  }, {
+    "name" : "host",
+    "value" : "i-system-2.local"
+  }, {
+    "name" : "thread",
+    "value" : "15690@i-system-2.local.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d664879a6c2e8227.json",
+  "parameterValues" : [ ]
+}
